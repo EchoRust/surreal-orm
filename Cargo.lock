@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "surreal-orm"
+name = "surreal_orm"
 version = "0.1.0"

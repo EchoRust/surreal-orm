@@ -1,5 +1,5 @@
 [package]
-name = "surreal-orm"
+name = "surreal_orm"
 version = "0.1.0"
 edition = "2021"
 authors = ["Echo <tgxz2000@gmail.com>"]
